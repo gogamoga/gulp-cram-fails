@@ -1,0 +1,24 @@
+{
+  "name": "gulp-cram-fails",
+  "version": "0.0.1",
+  "description": "cram steals arguments. no kitty! bad kitty! those are my tasks kitty!",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gogamoga/gulp-cram-fail.git"
+  },
+  "keywords": [
+    "bad",
+    "kitty"
+  ],
+  "author": "gogamoga",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-cram": "0.0.2",
+    "gulp-util": "~2.2.14"
+  }
+}
